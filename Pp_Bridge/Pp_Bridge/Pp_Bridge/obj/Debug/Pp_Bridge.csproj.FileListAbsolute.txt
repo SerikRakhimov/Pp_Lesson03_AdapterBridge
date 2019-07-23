@@ -1,0 +1,6 @@
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Bridge\Pp_Bridge\Pp_Bridge\bin\Debug\Pp_Bridge.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Bridge\Pp_Bridge\Pp_Bridge\bin\Debug\Pp_Bridge.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Bridge\Pp_Bridge\Pp_Bridge\bin\Debug\Pp_Bridge.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Bridge\Pp_Bridge\Pp_Bridge\obj\Debug\Pp_Bridge.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Bridge\Pp_Bridge\Pp_Bridge\obj\Debug\Pp_Bridge.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Bridge\Pp_Bridge\Pp_Bridge\obj\Debug\Pp_Bridge.pdb

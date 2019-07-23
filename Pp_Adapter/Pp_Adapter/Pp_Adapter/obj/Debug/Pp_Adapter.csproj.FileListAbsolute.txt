@@ -1,0 +1,7 @@
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Adapter\Pp_Adapter\Pp_Adapter\bin\Debug\Pp_Adapter.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Adapter\Pp_Adapter\Pp_Adapter\bin\Debug\Pp_Adapter.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Adapter\Pp_Adapter\Pp_Adapter\bin\Debug\Pp_Adapter.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Adapter\Pp_Adapter\Pp_Adapter\obj\Debug\Pp_Adapter.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Adapter\Pp_Adapter\Pp_Adapter\obj\Debug\Pp_Adapter.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Adapter\Pp_Adapter\Pp_Adapter\obj\Debug\Pp_Adapter.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Adapter\Pp_Adapter\Pp_Adapter\obj\Debug\Pp_Adapter.pdb
